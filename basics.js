@@ -6,7 +6,7 @@ var myName = 'Jon';
  */
 var person = {
 	name : 'Jon',
-	age : '30',
+	age : 30,
 };
 /* Create a function called `greet`,
  * it should take a 1 parameter, `name`
